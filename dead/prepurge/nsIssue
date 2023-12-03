@@ -1,0 +1,76 @@
+#!/bin/bash
+
+## much of this redacted for personal reasons
+
+cd ~/src/ns-census-maximizer/
+ua="Mozilla/5.0 (OS/2; Warp 4.5; rv:10.0.12) Gecko/20100101 Firefox/10.0.12"
+
+for i in {0..67}; do
+	#./example.py chinese_dynasty_version_$i mexicanmcflurry $ua
+	echo "chinese_dynasty_version_$i mexicanmcflurry"
+
+###	curl -sA "a virgin once again" -d "logging_in=1&restore_password=mexicanmcflurry&restore_nation=1&nation=chinese+dynasty+version+$i" https://www.nationstates.net/
+###	sleep 2
+
+done
+
+#./example.py chinese_dynasty_version_68 hhhh $ua
+echo "chinese_dynasty_version_68 hhhh"
+
+for i in {69..300}; do
+	#./example.py chinese_dynasty_version_$i hh $ua
+	echo "chinese_dynasty_version_$i hh"
+done
+
+## yeah my passwords sucked and none of you goofballs figured them out :3
+
+for i in {0..512}; do
+	#./example.py REDACTED$i femboyfurries $ua
+	echo "REDACTED$i femboyfurries"
+done
+
+name=th_authoritarian_regime_of_the_mcrib
+for i in {0..369}; do
+	#./example.py $i$name femboyfurries $ua
+	echo "$i$name femboyfurries"
+done
+
+name=th_cia_robot_decoy_surveillance_pigeon
+for i in {0..64}; do
+	#./example.py $i$name femboyfurries $ua
+	echo "$i$name femboyfurries"
+done
+
+for i in {0..321}; do
+	#./example.py REDACTED$i femboyfurries $ua
+	echo "REDACTED$i femboyfurries"
+done
+
+for i in {0..128}; do
+	#./example.py femboy_furry_$i mexicanmcflurry $ua
+	echo "femboy_furry_$i mexicanmcflurry"
+done
+
+for i in {0..128}; do
+	#./example.py north_south_canadia_$i mexicanmcflurry $ua
+	echo "north_south_canadia_$i mexicanmcflurry"
+done
+
+for i in {0..128}; do
+	#./example.py cringe_naenae_baby$i mexicanmcflurry $ua
+	echo "cringe_naenae_baby$i mexicanmcflurry"
+done
+
+for i in {0..256}; do
+	#./example.py blahaj_worshipper_$i mexicanmcflurry $ua
+	echo "blahaj_worshipper_$i mexicanmcflurry"
+done
+
+for i in {0,1,{3..256}}; do
+	#./example.py ikea_$i mexicanmcflurry $ua
+	echo "ikea_$i mexicanmcflurry"
+done
+for i in {0..256}; do
+	#./example.py chinese_civilian_weather_balloon_$i mexicanmcflurry $ua
+	echo "chinese_civilian_weather_balloon_$i mexicanmcflurry"
+done

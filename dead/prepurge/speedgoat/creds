@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en" id="page_display_region">
+<head>
+<title>NationStates | The Furry World Order</title>
+<meta charset="iso-8859-1">
+<link rel="stylesheet" href="/ns_v1667603967.css">
+<link rel="stylesheet" href="/fontello/css/nationstates_v1648769105.css">
+<link rel="stylesheet" href="/ghbuttons_v1479938804.css">
+<link rel="stylesheet" href="/ns.m_v1636597873.css">
+<base href="https://www.nationstates.net">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="NationStates">
+<meta name="application-name" content="NationStates">
+<link rel="canonical" href="https://www.nationstates.net/region=the_furry_world_order" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="apple-touch-icon" href="/images/world_assembly.jpg" />
+
+</head>
+<body id="loggedin" data-nname="beat_luque_talm">
+<div id="banner">
+
+<div id="bannerbg"><div id="bannerbgpic" style="background-image:linear-gradient(rgba(0,0,0,0.0), rgba(0,0,0,0.4) 30%, rgba(0,0,0,0.4) 65%,rgba(0,0,0,0.7)), url(/images/flags/Melilla.svg)"></div></div>
+<a id="summarybar" href="#" onClick="var p=document.getElementById('panel');if(p.className)p.className='';else p.className=(window.scrollY?'sticky':'')+'fullscreen';return false;">
+<div class="menubuttonholder">
+<div class="mobilemenuicon"></div>
+<div class="summarybartext">
+Beat Luque Talm<div id="mobile-indicators" class="refreshable">1 notice &bull; 4 issues &bull; 2 new telegrams</div>
+</div></div>
+</a>
+<div id="pageload-indicator" class="hide"><i class="icon-spin5 animate-spin"></i></div>
+
+</div>
+<div id="panel">
+<div id="panelcontent">
+<div id="panelclose"><a href="#" onClick="document.getElementById('panel').className='';return false;" title="Close"><i class="icon-cancel-circled2"></i></a></div>
+<ul class="menu">
+<li class="STANDOUT"><a href="nation=beat_luque_talm">BEAT LUQUE TALM</a>
+<ul class="submenu">
+<li><a href="page=notices"><i class="icon-flash"></i>NOTICES <span id="notificationnumber-notices" class="notificationnumber refreshable">1</span></a></li>
+<li><a href="page=dilemmas"><i class="icon-male"></i>ISSUES <span id="notificationnumber-issues" class="notificationnumber refreshable">4</span></a></li>
+<li><a href="page=telegrams"><i class="icon-mail-alt"></i>TELEGRAMS <span id="notificationnumber-telegrams" class="notificationnumber refreshable">2</span></a></li>
+<li><a href="page=dossier"><i class="icon-book"></i>DOSSIER</a></li>
+<li><a href="page=activity/view=region"><i class="icon-radar"></i>ACTIVITY</a></li>
+<li><a href="page=settings"><i class="icon-cog-alt"></i>SETTINGS</a></li>
+</ul></li>
+<li id="panelregionbar" class="STANDOUT"><a href="region=the_pacific">THE PACIFIC</a>
+<ul class="submenu">
+<li><a href="/region=the_pacific/page=display_region_rmb?postid=51283889#p51283889" id="boardlink" class="refreshable"><i class="icon-stackexchange"></i> BOARD<span id="notificationnumber-rmb" class="notificationnumber rmbnewnumber">1</span></a>
+</ul>
+<li class="STANDOUT"><a href="page=world">THE WORLD</a>
+<ul class="submenu">
+<li><a href="page=un"><i class="icon-wa"></i>WA
+</a></li>
+<li><a href="page=dispatches"><i class="icon-newspaper"></i>DISPATCHES</a></li>
+<li><a href="https://forum.nationstates.net"><i class="icon-chat-empty"></i>FORUM</a></li>
+<li><a href="page=store"><i class="icon-gift"></i>STORE</a></li>
+<li><a href="page=news"><i class="icon-lightbulb"></i>NEWS
+<span id="notificationnumber-news" class="notificationnumber refreshable" style="opacity:0">0</span>
+</a></li>
+<li><a href="page=faq"><i class="icon-help"></i>FAQ</a></li>
+</ul>
+<li class="STANDOUT"></li></ul>
+<p class="pcenter"><a href="/?logout=1"><button class="button icon" type="submit"><i class="icon-logout"></i> Logout</button></a>
+<form action="https://www.nationstates.net/" method="get">
+<div id="panelnomob"><p>
+<select name="nomobile" onChange="this.form.submit()"><option value="0">Turn off mobile site</option>
+<option value="temp">Temporarily</option>
+<option value="perm">Permanently</option>
+</select>
+</div>
+</form>
+</div>
+
+</div>
+<div id="main"><div id="content">
+
+<div class="regioncover" style="background-image:url(/images/rbanners/uploads/the_furry_world_order__712022.jpg)">
+<div class="regioncoverflag"><img src="/images/flags/uploads/rflags/the_furry_world_order__368571.png" class="rflag flagmode-flag" alt="" title="Regional Flag of The Furry World Order"></div>
+<h1 class="regiontitle"><a href="/region=the_furry_world_order">The Furry World Order</a></h1>
+</div>
+<div id="regioncontent">
+<p><strong>WA Delegate:</strong> None.
+<p><strong>Founder:</strong> <a href="nation=kadix" class="nlink"><img src="/images/flags/uploads/kadix__833710t2.png" class="miniflag" alt=""><span class="nnameblock"><span class="ntype">The Free Land of</span> <span class="nname">Kadix</span></span></a>
+<p><strong>Last WA Update:</strong> <time datetime="2023-03-09 18:04:41+0000" data-epoch="1678385081">8 hours ago</time>
+<p class="regionnavbar">
+<a href="/page=display_region_rmb/region=the_furry_world_order"><i class="icon-stackexchange"></i><span class="navtext">Board</span></a>
+<a href="/page=activity/view=region.the_furry_world_order"><i class="icon-radar"></i><span class="navtext">Activity</span></a>
+<a href="page=region_history/region=the_furry_world_order"><i class="icon-flag-empty"></i><span class="navtext">History</span></a>
+<a href="page=region_admin/region=the_furry_world_order"><i class="icon-town-hall"></i><span class="navtext">Admin</span></a>
+<a href="page=region_rank/region=the_furry_world_order"><i class="icon-award"></i><span class="navtext">Rank</span></a></p>
+<div id="trophycabinet"><a href="/page=list_nations/region=the_furry_world_order?censusid=64"><img src="/images/trophies/avoided-5.png" class="trophy" alt="Most Avoided: 622nd" title="Most Avoided: 622nd"></a>
+<a href="/page=list_nations/region=the_furry_world_order?censusid=77"><img src="/images/trophies/crime-5.png" class="trophy" alt="Highest Crime Rates: 963rd" title="Highest Crime Rates: 963rd"></a>
+<a href="/page=list_nations/region=the_furry_world_order?censusid=21"><img src="/images/trophies/insurance-5.png" class="trophy" alt="Largest Insurance Industry: 976th" title="Largest Insurance Industry: 976th"></a><a href="#" id="trophymore">+9</a><div id="trophyothers"><a href="/page=list_nations/region=the_furry_world_order?censusid=38"><img src="/images/trophies/apathetic-10.png" class="trophy" alt="Most Politically Apathetic Citizens: 1,469th" title="Most Politically Apathetic Citizens: 1,469th"></a>
+<a href="/page=list_nations/region=the_furry_world_order?censusid=11"><img src="/images/trophies/cheese-10.png" class="trophy" alt="Largest Cheese Export Sector: 1,654th" title="Largest Cheese Export Sector: 1,654th"></a>
+<a href="/page=list_nations/region=the_furry_world_order?censusid=35"><img src="/images/trophies/rude-10.png" class="trophy" alt="Rudest Citizens: 1,798th" title="Rudest Citizens: 1,798th"></a>
+<a href="/page=list_nations/region=the_furry_world_order?censusid=48"><img src="/images/trophies/pro-market-10.png" class="trophy" alt="Most Pro-Market: 2,290th" title="Most Pro-Market: 2,290th"></a>
+<a href="/page=list_nations/region=the_furry_world_order?censusid=1"><img src="/images/trophies/economy-10.png" class="trophy" alt="Most Efficient Economies: 2,321st" title="Most Efficient Economies: 2,321st"></a>
+<a href="/page=list_nations/region=the_furry_world_order?censusid=39"><img src="/images/trophies/healthy-10.png" class="trophy" alt="Healthiest Citizens: 2,322nd" title="Healthiest Citizens: 2,322nd"></a>
+<a href="/page=list_nations/region=the_furry_world_order?censusid=13"><img src="/images/trophies/tech-10.png" class="trophy" alt="Largest Information Technology Sector: 2,354th" title="Largest Information Technology Sector: 2,354th"></a>
+<a href="/page=list_nations/region=the_furry_world_order?censusid=54"><img src="/images/trophies/rebelyouth-10.png" class="trophy" alt="Most Rebellious Youth: 2,359th" title="Most Rebellious Youth: 2,359th"></a>
+<a href="/page=list_nations/region=the_furry_world_order?censusid=10"><img src="/images/trophies/auto-10.png" class="trophy" alt="Largest Automobile Manufacturing Sector: 2,415th" title="Largest Automobile Manufacturing Sector: 2,415th"></a></div></div>
+<fieldset class="wfe"><legend>World Factbook Entry</legend>
+<p>The road to hell is paved with NAND gates and femboys.</p>
+</fieldset>
+<p><strong>Tags:</strong> <a href='page=tag_search/type=region/tag=anti-general_assembly'>Anti-General Assembly</a>, <a href='page=tag_search/type=region/tag=anti-security_council'>Anti-Security Council</a>, <a href='page=tag_search/type=region/tag=anti-world_assembly'>Anti-World Assembly</a>, <a href='page=tag_search/type=region/tag=fandom'>Fandom</a>, <a href='page=tag_search/type=region/tag=feminist'>Feminist</a>, <a href='page=tag_search/type=region/tag=lgbt'>LGBT</a>, <a href='page=tag_search/type=region/tag=minuscule'>Minuscule</a>, <a href='page=tag_search/type=region/tag=pacifist'>Pacifist</a>, and <a href='page=tag_search/type=region/tag=serious'>Serious</a>.
+<p>The Furry World Order is home to <a href="region=the_furry_world_order/page=list_nations">a single nation</a>.</p>
+<form action="page=change_region" method="post">
+<input type="hidden" name="localid" value="kBuMzWyRzYb6f">
+<input type="hidden" name="region_name" value="the_furry_world_order">
+<p><button class="button danger icon " type="submit" name="move_region" value="1"><i class="icon-globe"></i>Move Beat Luque Talm to The Furry World Order!</button>
+</form>
+<form method="POST" action="page=dossier/action=add/region=the_furry_world_order"><input type="hidden" name="chk" value="JGH65Ij2uTYhI"><button type="submit" class="button icon small" name="add_to_dossier" value="1"><i class="icon-book"></i>Add The Furry World Order to Dossier</button></form>
+<div class="hzln"></div>
+<form method="get" action="/page=list_nations/region=the_furry_world_order">
+<div class="floatrightbox"><p>
+<select class="button medtext" name="censusid" onChange="this.form.submit();">
+<option value="0">Civil Rights</option>
+<option value="1">Economy</option>
+<option value="2">Political Freedom</option>
+<option value="3">Population</option>
+<option value="53">Authoritarianism</option>
+<option value="85">Average Disposable Income</option>
+<option value="72">Average Income</option>
+<option value="73">Average Income of Poor</option>
+<option value="74">Average Income of Rich</option>
+<option value="67">Averageness</option>
+<option value="79">Black Market</option>
+<option value="31">Business Subsidization</option>
+<option value="64">Charmlessness</option>
+<option value="40">Cheerfulness</option>
+<option value="6">Compassion</option>
+<option value="42">Compliance</option>
+<option value="51">Corruption</option>
+<option value="77">Crime</option>
+<option value="55">Culture</option>
+<option value="5">Death Rate</option>
+<option value="46">Defense Forces</option>
+<option value="7">Eco-Friendliness</option>
+<option value="48">Economic Freedom</option>
+<option value="76">Economic Output</option>
+<option value="56">Employment</option>
+<option value="63">Environmental Beauty</option>
+<option value="88">Food Quality</option>
+<option value="78">Foreign Aid</option>
+<option value="50">Freedom From Taxation</option>
+<option value="27">Government Size</option>
+<option value="39">Health</option>
+<option value="68">Human Development Index</option>
+<option value="45">Ideological Radicality</option>
+<option value="37">Ignorance</option>
+<option value="71">Inclusiveness</option>
+<option value="33">Income Equality</option>
+<option value="16">Industry: Arms Manufacturing</option>
+<option value="10">Industry: Automobile Manufacturing</option>
+<option value="12">Industry: Basket Weaving</option>
+<option value="18">Industry: Beverage Sales</option>
+<option value="24">Industry: Book Publishing</option>
+<option value="11">Industry: Cheese Exports</option>
+<option value="22">Industry: Furniture Restoration</option>
+<option value="25">Industry: Gambling</option>
+<option value="13">Industry: Information Technology</option>
+<option value="21">Industry: Insurance</option>
+<option value="20">Industry: Mining</option>
+<option value="14">Industry: Pizza Delivery</option>
+<option value="23">Industry: Retail</option>
+<option value="19">Industry: Timber Woodchipping</option>
+<option value="15">Industry: Trout Fishing</option>
+<option value="65" selected>Next: Influence</option>
+<option value="52">Integrity</option>
+<option value="36">Intelligence</option>
+<option value="86">International Artwork</option>
+<option value="30">Law Enforcement</option>
+<option value="44">Lifespan</option>
+<option value="34">Niceness</option>
+<option value="9">Nudity</option>
+<option value="61">Obesity</option>
+<option value="47">Pacifism</option>
+<option value="87">Patriotism</option>
+<option value="38">Political Apathy</option>
+<option value="69">Primitiveness</option>
+<option value="75">Public Education</option>
+<option value="29">Public Healthcare</option>
+<option value="57">Public Transport</option>
+<option value="60">Recreational Drug Use</option>
+<option value="32">Religiousness</option>
+<option value="80">Residency</option>
+<option value="35">Rudeness</option>
+<option value="43">Safety</option>
+<option value="70">Scientific Advancement</option>
+<option value="17">Sector: Agriculture</option>
+<option value="26">Sector: Manufacturing</option>
+<option value="62">Secularism</option>
+<option value="8">Social Conservatism</option>
+<option value="49">Taxation</option>
+<option value="58">Tourism</option>
+<option value="4">Wealth Gaps</option>
+<option value="59">Weaponization</option>
+<option value="41">Weather</option>
+<option value="28">Welfare</option>
+<option value="66">World Assembly Endorsements</option>
+<option value="54">Youth Rebelliousness</option>
+</select>
+<button type="submit" class="button medtext">Go</button>
+</div>
+</form>
+<h2><i class="icon-globe"></i>Today's World Census Report</h2>
+<h3>The Largest Trout Fishing Sector in The Furry World Order</h3>
+<p>The World Census conducted frenzied haggling with fishmongers in order to determine which nations have the largest fishing industries.</p>
+<p>As a region, The Furry World Order is ranked <a href="/page=list_regions?censusid=15"><b>27,509<sup>th</sup></b></a> in the world for Largest Trout Fishing Sector.</p><div class="widebox"><table class="shiny ranks nationranks mcollapse"><tr><th class="rankcol"><a href="/nation=beat_luque_talm/detail=trend?censusid=15"><img class="trophy" src="/images/trophies/fish-100.png" alt="" title="Industry: Trout Fishing"></a></th><th class="regioncol"></th><th class="toggle-rank-chart"><a class="bigtext" href="/page=list_nations/mode=g/region=the_furry_world_order/censusid=15" alt="Show as chart" title="Show as chart"><i class="icon-chart-bar-1"></i></a></th></tr><tr><td>1.</td><td><a href="nation=kadix" class="nlink"><img src="/images/flags/uploads/kadix__833710t1.png" class="smallflag" alt=""><span>The Free Land of Kadix</span></a></td><td>Corporate Bordello</td><td>&ldquo;Bash and siril go together like pineapple and pizza&rdquo;</td><td class="trendcell"><a href="/nation=kadix/detail=trend?censusid=15" title="Show Trend" aria-label="Trend"><i class="icon-chart"></i></a></td>
+</tr>
+</table></div>
+<div class="hzln"></div>
+<h2><i class="icon-radar"></i><a href="/page=activity/view=region.the_furry_world_order" class="quietlink">Regional Happenings</a></h2>
+<ul>
+<li><time datetime="2023-03-09 05:24:33+0000" data-epoch="1678339473">21 hours ago</time>: <a href="nation=chinese_dynasty_version_1" class="nlink"><img src="/images/flags/China.svg" class="miniflag" alt=""><span class="nnameblock"><span class="ntype">The Dictatorship of</span> <span class="nname">Chinese Dynasty version 1</span></span></a> departed this region for <a href="region=europooan_union" class="rlink">EUROPOOAN UNION</a>.
+<li><time datetime="2023-03-09 05:24:24+0000" data-epoch="1678339464">21 hours ago</time>: <a href="nation=chinese_dynasty_version_0" class="nlink"><img src="/images/flags/China.svg" class="miniflag" alt=""><span class="nnameblock"><span class="ntype">The Dictatorship of</span> <span class="nname">Chinese Dynasty version 0</span></span></a> departed this region for <a href="region=europooan_union" class="rlink">EUROPOOAN UNION</a>.
+<li><time datetime="2023-03-09 05:21:07+0000" data-epoch="1678339267">21 hours ago</time>: <a href="nation=chinese_dynasty_version_2" class="nlink"><img src="/images/flags/China.svg" class="miniflag" alt=""><span class="nnameblock"><span class="ntype">The Dictatorship of</span> <span class="nname">Chinese Dynasty version 2</span></span></a> departed this region for <a href="region=europooan_union" class="rlink">EUROPOOAN UNION</a>.
+<li><time datetime="2023-03-09 05:20:19+0000" data-epoch="1678339219">21 hours ago</time>: <a href="nation=chinese_dynasty_version_2" class="nlink"><img src="/images/flags/China.svg" class="miniflag" alt=""><span class="nnameblock"><span class="ntype">The Dictatorship of</span> <span class="nname">Chinese Dynasty version 2</span></span></a> arrived from <a href="region=europooan_union" class="rlink">EUROPOOAN UNION</a>.
+<li><time datetime="2023-03-09 05:17:52+0000" data-epoch="1678339072">21 hours ago</time>: <a href="nation=chinese_dynasty_version_1" class="nlink"><img src="/images/flags/China.svg" class="miniflag" alt=""><span class="nnameblock"><span class="ntype">The Dictatorship of</span> <span class="nname">Chinese Dynasty version 1</span></span></a> arrived from <a href="region=europooan_union" class="rlink">EUROPOOAN UNION</a>.
+<li><time datetime="2023-03-09 04:45:21+0000" data-epoch="1678337121">21 hours ago</time>: <a href="nation=chinese_dynasty_version_0" class="nlink"><img src="/images/flags/China.svg" class="miniflag" alt=""><span class="nnameblock"><span class="ntype">The Dictatorship of</span> <span class="nname">Chinese Dynasty version 0</span></span></a> arrived from <a href="region=europooan_union" class="rlink">EUROPOOAN UNION</a>.
+<li><time datetime="2023-03-06 04:42:42+0000" data-epoch="1678077762">3 days 21 hours ago</time>: <a href="nation=kadix" class="nlink"><img src="/images/flags/uploads/kadix__833710t2.png" class="miniflag" alt=""><span class="nnameblock"><span class="ntype">The Free Land of</span> <span class="nname">Kadix</span></span></a> tagged the region "Pacifist".
+<li><time datetime="2023-03-06 04:42:15+0000" data-epoch="1678077735">3 days 21 hours ago</time>: <a href="nation=kadix" class="nlink"><img src="/images/flags/uploads/kadix__833710t2.png" class="miniflag" alt=""><span class="nnameblock"><span class="ntype">The Free Land of</span> <span class="nname">Kadix</span></span></a> tagged the region "Serious".
+<li><time datetime="2023-03-06 04:42:04+0000" data-epoch="1678077724">3 days 21 hours ago</time>: <a href="nation=kadix" class="nlink"><img src="/images/flags/uploads/kadix__833710t2.png" class="miniflag" alt=""><span class="nnameblock"><span class="ntype">The Free Land of</span> <span class="nname">Kadix</span></span></a> tagged the region "LGBT".
+<li><time datetime="2023-03-06 04:41:40+0000" data-epoch="1678077700">3 days 21 hours ago</time>: <a href="nation=kadix" class="nlink"><img src="/images/flags/uploads/kadix__833710t2.png" class="miniflag" alt=""><span class="nnameblock"><span class="ntype">The Free Land of</span> <span class="nname">Kadix</span></span></a> tagged the region "Feminist".</ul>
+<p class="smalltext"><a href="page=activity/view=region.the_furry_world_order">More...</a></p>
+<div class="hzln"><a id="rmb"></a></div>
+<div id="rmbtoplink"><a href="javascript:scroll(0,0)"><img src="/images/top.gif" alt="Jump to top" title="Jump to top"></a></div>
+<h2><i class="icon-stackexchange"></i>The Furry World Order Regional Message Board</h2>
+<div class="widebox fill-content">
+<p><em>There are no lodged messages at present.</em>
+</div>
+</div>
+</div></div>
+<div id="foot">
+<div id="mfad">
+<div id="21661895602box"><div id="21661895602boxinner"><p class="adidentifier">Advertisement</p><div id="21661895602">
+
+<div data-fuse="21661895602"></div>
+</div><p class="adremover"><a href="/page=store">Remove ads</a></p></div></div>
+</div>
+<p id="lthreads"><img src="/images/on.gif" alt="Eye">Latest Forum Threads</p>
+<ul class="threads">
+<li><a href="//forum.nationstates.net/viewtopic.php?t=531453&amp;f=31&amp;view=unread#unread" title="&quot;1900: Steampunk Divergence [AH][OOC-OPEN]&quot; (100 posts)">1900: Steampunk Divergence [AH][OOC-O&hellip; (100)</a></li>
+<li><a href="//forum.nationstates.net/viewtopic.php?t=239275&amp;f=5&amp;view=unread#unread" title="&quot;RP Think Tank&quot; (2,363 posts)">RP Think Tank (2,363)</a></li>
+<li><a href="//forum.nationstates.net/viewtopic.php?t=521359&amp;f=23&amp;view=unread#unread" title="&quot;IRB Diplomatic Program&quot; (117 posts)">IRB Diplomatic Program (117)</a></li>
+<li><a href="//forum.nationstates.net/viewtopic.php?t=501011&amp;f=25&amp;view=unread#unread" title="&quot;What&#39;s the scariest thing about the AN&#39;s military? Part V&quot; (4,157 posts)">What&#39;s the scariest thing about the A&hellip; (4,157)</a></li>
+<li><a href="//forum.nationstates.net/viewtopic.php?t=530900&amp;f=42&amp;view=unread#unread" title="&quot;Buying spaceship themed cards&quot; (8 posts)">Buying spaceship themed cards (8)</a></li>
+
+</ul>
+<p id="gamebymax">NationStates by <a href="https://maxbarry.com">Max Barry</a></p>
+
+</div>
+<script src="/jquery_v1647480374.js"></script>
+<script src="/ns_v1667528893.js"></script>
+<script src="/jquery-ui_v1647480374.js"></script>
+<script src="/highcharts_v1421386524.js"></script>
+<script async src="https://cdn.fuseplatform.net/publift/tags/2/1045/fuse.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3291802-2"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-3291802-2');
+</script>
+<script>
+google_analytics_domain_name=".nationstates.net";
+window.google_analytics_uacct = "UA-3291802-2";
+</script>
+<script type="text/javascript">
+var rmboffset = 0;
+$(document).ready(function(){ 
+   rmb('the_furry_world_order'); 
+   preview();
+   polls();
+});
+</script>
+<script>
+$(document).ready(function() {
+  dynamicUpdates( [ [ 'notificationnumber-issues','4' ] ] );
+  dynamicMobileUpdate('1 notice &bull; 4 issues &bull; 2 new telegrams');
+});
+</script>
+<script>
+$(document).ready(function() { periodicRefresh('beat_luque_talm'); });
+</script>
+</body>
+</html>
+# Netscape HTTP Cookie File
+# https://curl.se/docs/http-cookies.html
+# This file was generated by libcurl! Edit at your own risk.
+
+#HttpOnly_.nationstates.net	TRUE	/	TRUE	0	pin	6871296441076
