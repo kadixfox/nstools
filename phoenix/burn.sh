@@ -7,6 +7,8 @@
 ## 
 ## -= kadix =-
 ##
+## burn.sh - answer issues via html site
+##
 ## Dec 2 2023, 23:03 MST
 
 nation="testlandia"
